@@ -3,12 +3,6 @@
 <img width="1270" height="919" alt="tan-iaa1-humcommockup2" src="https://github.com/user-attachments/assets/890f0b83-74ff-4dca-a2af-9c7db4ad996e" />
 <img width="1270" height="919" alt="tan-iaa1-humcommockup3" src="https://github.com/SonofTanpy/Tan-HUMCOM1-final-project/blob/main/tan-iaa1-reflectionmockup3.png" />
 
-<style>
-  .h2 {
-    text-align: center, justify;
-  }
-</style>
-
 <h2> <a href="https://github.com/SonofTanpy/Tan-HUMCOM1-final-project/blob/main/ethantan.html"> FIRST CODE </a> 
 <a href="https://github.com/SonofTanpy/Tan-HUMCOM1-final-project/blob/main/tan-act2.html"> SECOND CODE </a> 
 <a href="https://github.com/SonofTanpy/Tan-HUMCOM1-final-project/blob/main/tan_poem.html"> THIRD CODE </a> <br>
@@ -17,3 +11,4 @@
 <a href="https://github.com/SonofTanpy/Tan-HUMCOM1-final-project/blob/main/asupranova.html"> SIXTH CODE </a> 
 <a href="https://github.com/SonofTanpy/Tan-HUMCOM1-final-project/blob/main/Recipe%20Webs"> SEVENTH CODE </a> <br> </h2>
 
+// There are more codes but it's too much work & I got overwhelmed with Github //
