@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+ <html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <title> Singapore's Favorite Hit Dish!!!</title>
+        <link rel="stylesheet" href="tan-recipe-stylesheet.css">
+        <img src="spicybeefchengdunoodles.jfif" class="center-text">
+    </head>
+        <body>
+            <h1 class="center-text"> Chengdu Beef Noodle Soup </h1>
+            <p> TIME: 15 MINS | TOTAL COOKING TIME : 3-5 HRS | OVERALL TIME : 5 HRS 30 MINS</p>
+                <h3 class="center-text"> Ingredients: </h3>
+               <div class="card">
+                    <div class="inner-div">
+                <input type="checkbox" id="coldwater" name="ingredients" value="coldwater">
+                <label for="coldwater"> 16 cups cold water (3.8L) </label>
+                <br>
+                <input type="checkbox" id="ginger" name="ingredients" value="ginger">
+                <label for="ginger"> 6 slices ginger</label>
+                <br>
+                <input type="checkbox" id="scallions" name="ingredients" value="scallions">
+                <label for="scallions"> 3 scallions </label>
+                <br>
+                <input type="checkbox" id="shaoxingwine" name="ingredients" value="shaoxingwine">
+                <label for="shaoxingwine">1/4 cup Shaoxing Wine </label>
+                <br>
+                <input type="checkbox" id="beefchuck" name="ingredients" value="beefchuck">
+                <label for="beefchuck"> 3 lbs Beef Chuck</label>
+                <br>   
+                <input type="checkbox" id="oil" name="ingredients" value="oil">
+                <label for="oil"> 3 tablespoons oil </label>
+                <br>
+                <input type="checkbox" id="sichuanpeppercorns" name="ingredients" value="sichuanpeppercorns">
+                <label for="sichuanpeppercorns"> 1 to 2 tablespoons Sichuan peppercorns</label>
+                <br>
+                <input type="checkbox" id="garlic" name="ingredients" value="garlic">
+                <label for="garlic"> 2 heads garlic (peeled)</label>
+                <br>
+                <input type="checkbox" id="onion" name="ingredients" value="onion">
+                <label for="onion"> 1 large onion (cut into chunks)</label>
+                <br>
+                <input type="checkbox" id="staranise" name="ingredients" value="staranise">
+                <label for="staranise"> 5 star anise</label>
+                <br>
+                <input type="checkbox" id="bayleaves" name="ingredients" value="bayleaves">
+                <label for="bayleaves"> 4 bay leaves</label>
+                <br>
+                <input type="checkbox" id="spicybeanpaste" name="ingredients" value="spicybeanpaste">
+                <label for="spicybeanpaste"> 1/4 cup spicy bean paste</label>
+                <br>
+                <input type="checkbox" id="tomato" name="ingredients" value="tomato">
+                <label for="tomato"> 1 large tomato (cut into small chunks)</label>
+                <br>
+                <input type="checkbox" id="lightsoysauce" name="ingredients" value="lightsoysauce">
+                <label for="lightsoysauce"> 1/2 cup light soy sauce</label>
+                <br>
+                <input type="checkbox" id="sugar" name="ingredients" value="sugar">
+                <label for="sugar"> 1 tablespoon sugar</label>
+                <br>
+                <input type="checkbox" id="tangerinepeel" name="ingredients" value="tangerinepeel">
+                <label for="tangerinepeel"> 1 large piece of dried tangerine peel</label>
+                <br>
+                <input type="checkbox" id="fresh/driedwheatnoodles" name="ingredients" value="fresh/driedwheatnoodles">
+                <label for="fresh/driedwheatnoodles"> fresh or dried wheat noodles of your choice</label>
+                <br>
+                <input type="checkbox" id="choppedscallionandcilantro" name="ingredients" value="choppedscallionandcilantro">
+                <label for="choppedscallionandcilantro"> Chopped scallion and cilantro (to garnish)
+                </label>
+                    </div>
+               </div> 
+               
+               <h2 class="center-text"> Step-By-Step Process: </h2>
+            <div class="step-by-step">
+                <div class="step-by-step-inside"> 
+                <p> 1. You’ll need two large pots to make this recipe.  
+                    Fill one large stock pot with 16 cups of cold water. 
+                    Add the ginger, scallions, Shaoxing wine and beef chunks. 
+                    Cover and bring to a boil. Immediately turn down the heat and simmer for 10 minutes. After that, turn off the heat and set aside. 
+                    <br>
+                    <br> 2. Heat the oil in another stock pot or large wok over medium low heat, and add the Sichuan peppercorns, garlic cloves, onion, star anise and bay leaves. 
+                    Cook until the garlic cloves and onion chunks start to soften (about 5 – 10 minutes). Stir in the spicy bean paste. 
+                    Then add the tomatoes and cook for two minutes. Finally, stir in the light soy sauce and sugar. Turn off the heat. 
+                    <br>
+                    <br> 3. Now, let’s scoop out the beef, ginger, and scallions from the 1st pot and transfer them to the 2nd pot. 
+                    Then, pour in the stock through a fine mesh strainer. Place the pot over high heat, and add in the tangerine peel. 
+                    Cover and bring the soup to a boil. Immediately turn the heat down to a simmer, and cook for 60-90 minutes. 
+                    <br>
+                    <br> 4. After simmering, turn off the heat, but keep the lid on, and let the pot sit on the stove (with the heat off) for another full hour to let the flavors meld together. 
+                    Your soup base is done. Remember to bring the soup base to a boil again before serving. As an optional step, pick out the beef and strain the soup if you’d like to remove the spices and aromatics from the broth. 
+                    <br>
+                    <br>5. Cook your noodles in a separate pot according to the package instructions, and divide among your serving bowls (you can get 8 generous servings out of your pot of soup and beef). Top the bowls with hot broth, beef, scallions, and cilantro. Serve piping hot! <br>
+                    <br>Note: If you still have leftover stock and beef, you can freeze it and reheat for future meals.
+                    </p>
+            </div>
+        </div>
+
+        </body> 
+ </html>
