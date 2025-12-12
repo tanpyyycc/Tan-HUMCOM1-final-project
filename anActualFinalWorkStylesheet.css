@@ -1,0 +1,193 @@
+body {
+    font-family: 'Geo';
+    margin: 5;
+    padding: 5;
+    background-color: #7dbef3;
+    color: #ffffff;
+    text-align: center;
+  background-image: url(saRCnE.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: cover;
+}
+/* Header Styles */
+
+@font-face {
+    font-family: 'Geo';
+    src: url(c:\Users\sumad-en_k\Downloads\Geo-Regular.ttf);
+}
+.avatar {
+    vertical-align: middle;
+    width: 430px;
+    height: 450px;
+    border-radius: 450%;
+  }
+
+/* Navigation Styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Main Content Styles */
+p {
+  text-align: center;
+  font-family: 'Geo';
+}
+.Container{
+    background: rgba(80, 80, 74, 0.534);
+    width: 1100px;
+    /*max-width: 1400px;*/
+    border-radius: 10px;
+    margin: auto;
+    padding: 40px;
+    box-shadow: 0 4px 20px color(srgb rgb(0, 0, 0) rgb(10, 10, 10) rgb(10, 10, 10));
+    transition: all 0.4s ease;
+
+}
+.Summary {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Info {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.Name {
+  font-family: 'Geo';
+  width: 50%;
+  margin: 0px auto;
+  padding: 20px;
+  background-color: #747070bb;
+  color: #e3ffed;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.466);
+}
+  .Education {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Experience {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed; 
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Skills {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.Language {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Projects {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+.References {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+
+.Reflection {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align:center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+
+
+ .Language, .HTML-Projects, .ReferencesHTML{  /*LEFT SIDE*/
+    width: 50%;
+    margin: 20px 0 20px 0; /* aligned left with some spacing */
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+ .Skills, .Projects, .ReferencesLecture, .OtherProjects, .ReferencesOther { /* RIGHT SIDE */
+    width: 50%;
+    margin: 20px 0 20px auto; /* pushes to right */
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e3ffed;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.Education, .Experience, .Skills, .Language, .Projects, .References, .HTMLProjects {
+    margin-bottom: 20px; /* adds space below each section */
+}
